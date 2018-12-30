@@ -1,0 +1,23 @@
+{
+  "name": "djseefu",
+  "version": "1.0.0",
+  "description": "a discord bot using prefix '#' as a send all command to Rhyme bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnrj/djseefu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnrj/djseefu/issues"
+  },
+  "homepage": "https://github.com/fnrj/djseefu#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
